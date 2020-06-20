@@ -14,6 +14,7 @@ import { DatePipePipe } from './date-pipe.pipe';
 import { NgProgressModule } from '@ngx-progressbar/core';
 import { NgProgressHttpClientModule } from '@ngx-progressbar/http-client';
 import { ReposComponent } from './repos/repos.component';
+import { AboutComponent } from './about/about.component';
 
 @NgModule({
   declarations: [
@@ -25,6 +26,7 @@ import { ReposComponent } from './repos/repos.component';
     HighlightDirective,
     DatePipePipe,
     ReposComponent,
+    AboutComponent,
     
   ],
   imports: [
