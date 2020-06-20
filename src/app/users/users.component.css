@@ -47,10 +47,11 @@ p{
   float: right;
 }
 .allrepos{
-  font-family: 'Special Elite', cursive;
+  font-family: 'Sriracha', cursive;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  font-size: 20px;
 }
 hr{
   background-color: rgb(211, 247, 247);
@@ -79,6 +80,10 @@ hr{
   height: 60px;
 }
 h4
+{
+  font-family: 'Berkshire Swash', cursive;
+}
+.name
 {
   font-family: 'Berkshire Swash', cursive;
 }
