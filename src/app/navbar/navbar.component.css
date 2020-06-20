@@ -1,0 +1,17 @@
+#nav{
+  background-color: rgb(112, 144, 155);
+  margin-bottom: 1%;
+}
+#items{
+  margin-left: 60%; 
+}
+.navbar-brand{
+  margin-left: 1%;
+  margin-right: 5%;
+}
+.ico{
+  margin-right: 3%;
+}
+.nav-link{
+  font-weight: 500;
+}
